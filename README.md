@@ -24,4 +24,3 @@ You're the kind of person who keeps the syntax of friendship clean and the logic
 git clone https://github.com/Powerla-developer/To_Whom_it_may_Concern
 cd To_Whom_it_may_Concern
 python birthday.py
-# To_Whom_it_may_Concern
