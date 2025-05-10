@@ -1,9 +1,5 @@
-
----
-
 ## 🐍 `birthday.py`
 
-```python
 def celebrate_bff():
     print("🎉 Happy Birthday to the ultimate dev and BFF! 🎉")
     print("Wishing you bug-free days, infinite loops of joy, and zero runtime errors.")
