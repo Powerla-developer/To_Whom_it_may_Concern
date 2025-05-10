@@ -1,0 +1,2 @@
+- Improved kindness algorithm
+- Reduced sarcasm overflow bug
